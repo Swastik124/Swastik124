@@ -1,11 +1,11 @@
-<img align="center" alt="Heading" height="340" width="600" src="https://gifdb.com/images/high/technology-circuit-board-ht35fdefmne6n1dv.webp">
+<p align="center"> <img src="https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif" height="350" width="650" alt="Header" /> </p>
 <br>
 <h1 align="center">My name is Swastik Kumar Mohanty</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik124&label=Profile%20views&color=0e75b6&style=flat" alt="swastik124" /> </p>
 <br>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/navigation-technology-device-nnmhi3as6ujmxixy.webp">
+<img align="right" alt="Coding" height="300" width="400" src="https://i.pinimg.com/750x/6d/3d/5a/6d3d5a54a2e4540ad3712dac02070191.jpg">
 
 - 🌱 I’m currently learning **Core Java, HTML,CSS , Java Script**
 
