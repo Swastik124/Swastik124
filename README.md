@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik124&label=Profile%20views&color=0e75b6&style=flat" alt="swastik124" /> </p>
 <br>
-<img align="right" alt="Coding" height="300" width="400" src="https://i.pinimg.com/750x/6d/3d/5a/6d3d5a54a2e4540ad3712dac02070191.jpg">
+<img align="right" alt="Coding" height="300" width="400" src="https://i.pinimg.com/originals/20/ed/06/20ed06db283022697f34602fdba35ae3.gif">
 
 - 🌱 I’m currently learning **Core Java, HTML,CSS , Java Script**
 
