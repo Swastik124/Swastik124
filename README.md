@@ -1,7 +1,7 @@
 <p  align="center"> <img src="https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif" height="350" width="650" alt="Header" /> </p>
 <br>
 <h1 align="center">My name is Swastik Kumar Mohanty</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik124&label=Profile%20views&color=0e75b6&style=flat" alt="swastik124" /> </p>
 <br>
