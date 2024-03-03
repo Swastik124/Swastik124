@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Core Java, HTML,CSS , Java Script**
 
-- 📫 How to reach me **www.linkedin.com/in/ swastik-mohanty-420b41252**
+- 📫 How to reach me **www.linkedin.com/in/swastik-mohanty-420b41252**
 
 - 👨🏻‍💻 Languages & frameworks I know are:- <br>
       <br>
