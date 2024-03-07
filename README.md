@@ -50,6 +50,8 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastik124&show_icons=true&locale=en&layout=compact" alt="swastik124" /></p>
 <br>
+<br>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=swastik124&show_icons=true&locale=en" alt="swastik124" /></p>
 
 [![An image of @swastik124's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swastik124)](https://holopin.io/@swastik124)
