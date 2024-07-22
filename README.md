@@ -53,5 +53,3 @@
 <br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=swastik124&show_icons=true&locale=en" alt="swastik124" /></p>
-
-[![An image of @swastik124's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swastik124)](https://holopin.io/@swastik124)
