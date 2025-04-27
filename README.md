@@ -45,9 +45,9 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> -->
-  <p><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4508632" style='border:none;'></iframe></p>
 </p> 
 <br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/swastikmohanty12.png" alt="Your Image Badge" />
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastik124&show_icons=true&locale=en&layout=compact" alt="swastik124" /></p>
