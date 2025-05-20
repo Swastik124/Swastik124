@@ -39,8 +39,11 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.png" alt="React" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt="python" width="37" height="37"/> </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="40" height="40"/> </a>
-  
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="40" height="40"/> </a><br><br><br>
+  <a href="https://tryhackme.com/p/swastikmohanty12" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/swastikmohanty12.png" alt="TryHackMe Profile Badge" />
+</a>
+
 <!--   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
