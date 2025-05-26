@@ -41,7 +41,7 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="40" height="40"/> </a><br><br><br>
   <a href="https://tryhackme.com/p/swastikmohanty12" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/swastikmohanty12.png" alt="TryHackMe Profile Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/swastikmohanty12.png" alt="Your Image Badge" />
 </a>
 
 <!--   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
