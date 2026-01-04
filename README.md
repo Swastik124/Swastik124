@@ -8,7 +8,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **Core Java, HTML,CSS , Java Script**
+- 🌱 I’m currently learning **Cybersecurity Frameworks, tools, ethical implementations of those tools**
 
 - 📫 How to reach me **www.linkedin.com/in/swastik-mohanty-420b41252**
 
