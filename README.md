@@ -44,15 +44,3 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/swastikmohanty12.png" alt="Your Image Badge" />
 </a>
 
-<!--   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> -->
-</p> 
-<br>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastik124&show_icons=true&locale=en&layout=compact" alt="swastik124" /></p>
-<br>
-<br>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=swastik124&show_icons=true&locale=en" alt="swastik124" /></p>
